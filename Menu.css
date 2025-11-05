@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+}
+header{
+      color:white ;
+      background-color: black;
+      width: 100%;
+      height: 200px;
+      border-radius: 10px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular',
+       'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+        Verdana, sans-serif;
+}
+.begin{
+      width: 100%;
+      color: white;
+    display: flex;
+    text-align:center ;
+    justify-content: space-around;
+    padding-top: 75px;
+}
+.begin a{
+      color: white;
+      text-decoration: none;
+}
+.begin a:hover{
+      color: rgb(127, 245, 166);
+  text-decoration: double;
+}
+
+#title{
+    padding-top: 20px;
+}
+body{
+    background-image: url('download\ \(1\).jpeg');
+     background-repeat: no-repeat;
+      background-size: 100% 100%;
+      opacity: 90%; 
+      width: 100%; 
+}
+.layerone{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 250px;
+    padding-top: 20px;
+    margin: 20px 0 40px 0;
+}
+
+.one{
+    width: 25%;
+    height: 250px;
+    background-color:rgba(182, 248, 129, 0.8);
+    border-radius: 20px;
+}
+.two{
+     width: 25%;
+    height: 250px;
+    background-color: rgba(49, 83, 5, 0.8); 
+    border-radius:20px ;
+}
+.nav{
+     color: black;
+     text-align: center;
+}
+.nav a:hover{
+    color:red ;
+    text-decoration: solid;
+}
+a{
+    
+    text-decoration: none;
+    
+}
+.Expo{
+      color: black;
+     text-align: center;
+}
+.Expo a:hover{
+    color: aquamarine;
+    text-decoration: solid;
+}
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+
+.layertwo{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 250px;
+}
+
+.three{
+    width: 25%;
+    height: 250px;
+    background-color: rgba(69, 119, 4, 0.8);
+    border-radius: 20px;
+}
+.four{
+     width: 25%;
+    height: 250px;
+    background-color: rgba(186, 240, 87, 0.8); 
+    border-radius:20px ;
+}
+.Game{
+     color: black;
+     text-align: center;
+}
+.Game a:hover{
+    color: aquamarine;
+    text-decoration: solid;
+}
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+.cyc{
+      color: black;
+     text-align: center;
+}
+.cyc a:hover{
+    color: aquamarine;
+    text-decoration: solid;
+}
+a{
+    color: black;
+    text-decoration: none;   
+}
+
+.layerthree{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 250px;
+    margin: 40px 0 0 0;
+}
+
+.five{
+    width: 25%;
+    height: 250px;
+    background-color: rgba(213, 214, 211, 0.8);
+    border-radius: 20px;
+}
+.six{
+     width: 25%;
+    height: 250px;
+    background-color: rgba(49, 83, 5, 0.8); 
+    border-radius:20px ;
+}
+.story{
+     color: black;
+     text-align: center;
+}
+.story a:hover{
+    color: aquamarine;
+    text-decoration: solid;
+}
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+.creativeco{
+      color: black;
+     text-align: center;
+}
+.creativeco a:hover{
+    color: aquamarine;
+    text-decoration: solid;
+}
+a{
+    color: black;
+    text-decoration: none;   
+}
+
+.layerfour{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 250px;
+    margin: 40px 0 0 0;
+}
+
+.seven{
+    width: 25%;
+    height: 250px;
+    background-color: rgba(69, 119, 4, 0.8);
+    border-radius: 20px;
+}
+.eight{
+     width: 25%;
+    height: 250px;
+    background-color: rgba(49, 83, 5, 0.8); 
+    border-radius:20px ;
+}
+.Field{
+     color: black;
+     text-align: center;
+}
+.Field a:hover{
+    color: aquamarine;
+    text-decoration: solid;
+}
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+.Journal{
+      color: black;
+     text-align: center;
+}
+.Journal a:hover{
+    color: aquamarine;
+    text-decoration: solid;
+}
+a{
+   color: black; 
+    text-decoration: none;   
+}
+
+.last{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 250px;
+    margin: 40px 0 0 0;
+}
+.nine{
+    width: 25%;
+    height: 250px;
+    background-color: rgba(69, 119, 4, 0.8);
+    border-radius: 20px;
+}
+.thankGod{
+     color: black;
+     text-align: center;
+}
+.thankGpd a:hover{
+    color: aquamarine;
+    text-decoration: solid;
+}
+a{
+     color: black; 
+    text-decoration: none;  
+}
